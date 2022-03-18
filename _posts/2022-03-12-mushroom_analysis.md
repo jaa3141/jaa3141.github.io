@@ -2,7 +2,7 @@
 
 
 
-# Introduction and Importing
+## Introduction and Importing
 
 
 WOW!! A blog?! Exciting! Hello and welcome, for my first trick I'll be exploring [a Synthetic Mushroom dataset](https://www.kaggle.com/uciml/mushroom-classification) from Kaggle. This dataset contains 8124 synthetic datapoints corresponding to 23 species of gilled mushrooms from the genera Agaricus and Lepiota, classified into edible (definitely safe to eat) or poisonous (of uncertain toxicity). I'm just gonna load it up and work my way through it, hopefully an interesting avenue of investigation presents itself.  
