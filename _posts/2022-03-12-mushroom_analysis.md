@@ -243,7 +243,7 @@ mushroom.head()
     </tr>
   </tbody>
 </table>
-<p>5 rows × 23 columns</p>
+<p>5 rows Ã— 23 columns</p>
 </div>
 
 
@@ -756,7 +756,7 @@ test.head()
     </tr>
   </tbody>
 </table>
-<p>5 rows × 23 columns</p>
+<p>5 rows Ã— 23 columns</p>
 </div>
 
 
@@ -1187,7 +1187,7 @@ mushroom.describe(include='all')
     </tr>
   </tbody>
 </table>
-<p>4 rows × 23 columns</p>
+<p>4 rows Ã— 23 columns</p>
 </div>
 
 
@@ -1540,7 +1540,7 @@ X.head()
     </tr>
   </tbody>
 </table>
-<p>5 rows × 116 columns</p>
+<p>5 rows Ã— 116 columns</p>
 </div>
 
 
