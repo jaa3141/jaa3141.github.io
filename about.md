@@ -4,5 +4,5 @@ Hi!! I'm Jay, a semi-competent Python coder and ex Physical Chemist trying to ma
 You can find me:
 - On [LinkedIn](https://www.linkedin.com/in/jay-acharya98/)
 - On DFX
-- at jayamanacharya\@gmail.com
+- at jayamanacharya@gmail.com
 
